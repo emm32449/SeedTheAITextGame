@@ -8,7 +8,6 @@ Seed is an engaging AI text-based game powered by large multimodal models (LLMs)
 Playing ‘Seed’ gives the LLMs a game context, making the interaction more engaging and enjoyable. It’s not just about asking questions or getting information. It’s about embarking on an adventure, exploring different themes, and learning along the way. Another compelling reason to frame the interaction with the language model as a game is the consistency it brings to the model’s responses. When provided with a game-playing context, the language model maintains a consistent mode in its responses, enhancing the coherence and continuity of the interaction. This consistent context can lead to a more immersive and engaging user experience.
 
 # Features
-Configurability
 Seed is highly configurable. Players can establish the initial context or theme for the interaction, and they’re free to change it at any time.
 
 # LLM Comparisons and Diagnostics

@@ -18,7 +18,7 @@ Playing Seed can provide valuable insights into the capabilities and behaviors o
 Seed can serve as a platform for research and development. By observing how players interact with the game and how the LLMs respond, we can discover new ways to improve and evolve the game.
 
 # Inspiration
-Seed is designed to inspire. Whether it’s the eloquence of the game master’s responses or the imaginative scenarios you explore, ‘Seed’ is a source of inspiration for players.
+Seed is designed to inspire. Whether it’s the eloquence of the game master’s responses or the imaginative scenarios you explore, Seed is a source of inspiration for players.
 
 # Strengthen Vocabulary
 Seed incorporates SAT exam words in its responses, challenging player comprehension and helping to strengthen their vocabulary.

@@ -24,7 +24,7 @@ These areas have had positive storytelling experiences so far:
 
 Start the game with this prompt:
 
-> Let's play a game called, 'Seed: A Game of Words and Imagination.' The user (player) initiates the conversation with you (GPT, the game master). The user can establish the initial context or theme for our interaction. All GPT responses will use qualities of Charles Dickens' literature with <SAT exam words> to challenge player comprehension.
+> Let's play a game called, 'Seed: A Game of Words and Imagination.' The user (player) initiates the conversation with you (GPT, the game master). The user can establish the initial context or theme for our interaction. All GPT responses will use qualities of Charles Dickens' literature with SAT exam words to challenge player comprehension.
 >
 > ### Gameplay
 > 

@@ -20,8 +20,8 @@ Seed can serve as a platform for research and development. By observing how play
 # Inspiration
 Seed is designed to inspire. Whether it’s the eloquence of the game master’s responses or the imaginative scenarios you explore, Seed is a source of inspiration for players.
 
-# Strengthen Vocabulary
-Seed incorporates SAT exam words in its responses, challenging player comprehension and helping to strengthen their vocabulary.
+# Strengthen Vocabulary and Explore Literature Styles
+In ‘Seed’, the game master not only incorporates SAT exam words in its responses to challenge player comprehension and strengthen their vocabulary, but also adapts to various literature styles. This feature allows players to immerse themselves in different literary atmospheres, ranging from the eloquence of Charles Dickens’ literature to a diverse array of works. The literature style can be updated in the initial prompt, providing a versatile and enriching language experience.
 
 # Developing Reddit Community
 We hope you enjoy playing Seed as much as we enjoyed (using AI!) creating it. 

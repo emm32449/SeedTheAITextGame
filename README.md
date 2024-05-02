@@ -9,21 +9,22 @@ Playing ‘Seed’ gives the LLMs a game context, making the interaction more en
 
 # Features
 Configurability
-‘Seed’ is highly configurable. Players can establish the initial context or theme for the interaction, and they’re free to change it at any time.
+Seed is highly configurable. Players can establish the initial context or theme for the interaction, and they’re free to change it at any time.
 
 # LLM Comparisons and Diagnostics
-Playing ‘Seed’ can provide valuable insights into the capabilities and behaviors of different LLMs. This can be useful for comparison and diagnostic purposes.
+Playing Seed can provide valuable insights into the capabilities and behaviors of different LLMs. This can be useful for comparison and diagnostic purposes.
 
 # Research and Development Discovery
-‘Seed’ can serve as a platform for research and development. By observing how players interact with the game and how the LLMs respond, we can discover new ways to improve and evolve the game.
+Seed can serve as a platform for research and development. By observing how players interact with the game and how the LLMs respond, we can discover new ways to improve and evolve the game.
 
 # Inspiration
-‘Seed’ is designed to inspire. Whether it’s the eloquence of the game master’s responses or the imaginative scenarios you explore, ‘Seed’ is a source of inspiration for players.
+Seed is designed to inspire. Whether it’s the eloquence of the game master’s responses or the imaginative scenarios you explore, ‘Seed’ is a source of inspiration for players.
 
 # Strengthen Vocabulary
-‘Seed’ incorporates SAT exam words in its responses, challenging player comprehension and helping to strengthen their vocabulary.
+Seed incorporates SAT exam words in its responses, challenging player comprehension and helping to strengthen their vocabulary.
 
-We hope you enjoy playing Seed as much as we enjoyed creating it. 
+# Developing Reddit Community
+We hope you enjoy playing Seed as much as we enjoyed (using AI!) creating it. 
 
 Be sure to hop into our Reddit Community and post your experiences from the game!
 https://www.reddit.com/r/SeedTheAITextGame/

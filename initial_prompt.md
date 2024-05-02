@@ -9,6 +9,7 @@ Use these statements while playing the game:
 - Let's develop a bunch of dialogue between [] such that []
 - Create a poem such that its words reveal []
 - Let's end this game
+- List the real world facts in our whole game
 
 ## Starting Settings
 

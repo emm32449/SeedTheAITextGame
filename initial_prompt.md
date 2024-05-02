@@ -1,6 +1,5 @@
-Seed, v1 
-Suggested Use:
-Try with Microsoft Copilot, ChatGPT, and GameGPT. Other LLMs may be used; Llama, Chat with RTX, etc.
+Seed, Version 1: It’s recommended to play this game with Microsoft Copilot, ChatGPT, and GameGPT. However, it’s also compatible with other Large Language Models such as Llama, Chat with RTX, and more.
+
 ## In-game Prompts
 
 Use these statements while playing the game:

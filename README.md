@@ -23,4 +23,7 @@ Playing ‘Seed’ can provide valuable insights into the capabilities and behav
 # Strengthen Vocabulary
 ‘Seed’ incorporates SAT exam words in its responses, challenging player comprehension and helping to strengthen their vocabulary.
 
-We hope you enjoy playing ‘Seed’ as much as we enjoyed creating it.
+We hope you enjoy playing Seed as much as we enjoyed creating it. 
+
+Be sure to hop into our Reddit Community and post your experiences from the game!
+https://www.reddit.com/r/SeedTheAITextGame/

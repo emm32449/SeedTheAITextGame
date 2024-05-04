@@ -1,4 +1,4 @@
-Seed, Version 1: It’s recommended to play this game with Microsoft Copilot, ChatGPT, and GameGPT. However, it’s also compatible with other Large Language Models such as Llama, Chat with RTX, and more.
+Seed, Version 1: It’s recommended to play this game with Microsoft Copilot, ChatGPT. However, it also may be developed for other Large Language Models such as Llama, Chat with RTX, and more.
 
 ## In-game Prompts
 
@@ -8,6 +8,7 @@ Use these statements while playing the game:
 - Create a table of [] with rows being []
 - Let's develop a bunch of dialogue between [] such that []
 - Create a poem such that its words reveal []
+- Let's remove [] from the game and add in []
 - Let's end this game
 - List the real world facts in our whole game
 

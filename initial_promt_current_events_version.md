@@ -10,7 +10,11 @@ Use these statements while playing the game:
 - Create a poem such that its words reveal []
 - Let's remove [] from the game and add in []
 - Let's end this game
+- List the fictional statements and concepts in our whole game
 - List the real world facts in our whole game
+- Construct a timeline of events leading up to [] and analyze their significance
+
+
 
 ## Starting Settings
 
